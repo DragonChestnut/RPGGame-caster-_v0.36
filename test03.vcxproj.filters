@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\Train">
+      <UniqueIdentifier>{e4c20012-4346-4cfc-97b2-f58771ca461e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Train">
+      <UniqueIdentifier>{e677269f-7f4d-4d39-9637-cbcf3f1b7b29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Title">
+      <UniqueIdentifier>{a3c4e8e3-c8e0-423c-b290-0b934bd9d3f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Title">
+      <UniqueIdentifier>{4ec47852-0626-4850-8917-589af77a165a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{d7f08616-1aad-4a85-a48e-1c029c008bff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\NewFilter1">
+      <UniqueIdentifier>{e32d7721-c681-40d7-be0a-5a19211ebfcf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\NewFilter1">
+      <UniqueIdentifier>{2241fbfc-1a5e-4580-ae18-1b0cceaaecd3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="debug.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Xmodel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="meshfield.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Billboard.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sound.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Polygon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="character.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="scene.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shadow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameUI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="effect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Train.cpp">
+      <Filter>源文件\Train</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy_Train.cpp">
+      <Filter>源文件\Train</Filter>
+    </ClCompile>
+    <ClCompile Include="Fade.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.cpp">
+      <Filter>源文件\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="Efect.cpp">
+      <Filter>源文件\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="TrainUI.cpp">
+      <Filter>源文件\Train</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Hit2dTrain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Resalte.cpp">
+      <Filter>源文件\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>源文件\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Story.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Clock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="debug.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Xmodel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="meshfield.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Billboard.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sound.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Polygon.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="character.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="scene.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameUI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="shadow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="effect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Train.h">
+      <Filter>头文件\Train</Filter>
+    </ClInclude>
+    <ClInclude Include="TrainUI.h">
+      <Filter>头文件\Train</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy_Train.h">
+      <Filter>头文件\Train</Filter>
+    </ClInclude>
+    <ClInclude Include="Fade.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>头文件\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Efect.h">
+      <Filter>头文件\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="stage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hit2dTrain.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Number.h">
+      <Filter>头文件\NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="Clock.h">
+      <Filter>头文件\NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="Resalte.h">
+      <Filter>头文件\NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>头文件\NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="Story.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
